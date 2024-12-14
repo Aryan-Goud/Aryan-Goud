@@ -1,16 +1,93 @@
-## Hi there 👋
+<!-- Banner Section -->
+<p align="center">
+  <img src="https://checkmateittech.com/wp-content/uploads/2023/10/Full-Stack.jpg" alt="Java Banner" width="100%">
+</p>
 
-<!--
-**Aryan-Goud/Aryan-Goud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Aryan</h1>
+<h3 align="center">A passionate Full Stack Java Developer</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-goud&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-goud" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Enterprise Cloud Solutions**
+
+- 🌱 I’m currently learning **Advanced **GraphQL** Techniques Enhancing skills in **Reactive Programming****
+
+- 👯 I’m looking to collaborate on **Java Projects**
+
+- 💬 Ask me about ****Java**, **Angular**, and **Spring Boot** Cloud solutions: **AWS** and **Azure** Microservices architecture and **DevOps Practices****
+
+- 📫 How to reach me **aryangg7350@gmail.com**
+
+- ⚡ Fun fact **I love exploring the intersection of technology and humor—because debugging needs some laughter!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aryangoud1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryangoud1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@aryangoud_90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aryangoud_90" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aryangoud_90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryangoud_90" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-goud&show_icons=true&locale=en&layout=compact" alt="aryan-goud" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan-goud&show_icons=true&locale=en" alt="aryan-goud" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-goud&" alt="aryan-goud" /></p>
+
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; width: 350px; box-shadow: 0 1px 1px rgba(0,0,0,0.1); font-family: Arial, sans-serif;">
+  <a href="https://github.com/Aryan-Goud/Assessments_Interns" style="font-size: 16px; font-weight: 600; color: #0366d6; text-decoration: none;">Java Projects</a>
+  <span style="float: right; font-size: 12px; color: #586069; border: 1px solid #e1e4e8; padding: 2px 6px; border-radius: 10px;">Public</span>
+  <p style="font-size: 14px; color: #586069; margin: 8px 0;">Complex Projects and Problem Solvings</p>
+  <div style="font-size: 14px; color: #586069;">
+    <span style="display: inline-block; margin-right: 10px;">
+      <span style="color: #0366d6; font-size: 12px;">●</span> Python
+    </span>
+    <span style="font-size: 12px;">⭐ 1</span>
+  </div>
+</div>
+
+<div class="Box pinned-item-list-item d-flex p-3 width-full public source"> 
+
+<div class="pinned-item-list-item-content"> 
+
+<div class="d-flex v-align-middle mr-2"> 
+
+<span data-view-component-"true" class="position-relative">
+
+<a  href="/Aryan-Goud/Assessments_Interns" data-view-component="true" class="min-width-e Link text-bold flex-auto wb-break-all" aria-describedby "tooltip-b52e6780-bde3-422e-9916-0dd27cd90464">
+
+<span class="repo"> eti-pipeline-python </span>
+
+</a>
+
+<tool-tip id="tooltip-b52e6780-bde3-422e-9916-0dd27cd90464" for="823750295" popover-"manual" data-direction="s" data-type="description" data-view- component="true" class="position-absolute sr-only" role="tooltip" style="--tool-tip-position-top: 1888.856388092041px; tool-tip-position-left: 8
+
+71,0781364440918px;">
+
+#shadow-root (open)
+
+"etl-pipeline-python"
+
+</tool-tip>
+
+</span>
+
+<span class="flex-auto text-right">
+
+<span></span>
+
+<span class="Label Label--secondary v-align-middle ">Public</span>
+
+</span>
+
+</div>
+
+<p class="pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3"> Basic ETL project with a CSV data </p>
+
+<p class-mb-0 f6 color-fg-muted"> </p>
+
+</div>
+</div>div>
+
