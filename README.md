@@ -19,6 +19,7 @@
 - 📫 How to reach me **aryangg7350@gmail.com**
 
 - ⚡ Fun fact **I love exploring the intersection of technology and humor—because debugging needs some laughter!**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
