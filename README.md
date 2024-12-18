@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Enterprise Cloud Solutions**
 
-- 🌱 I’m currently learning **Advanced **GraphQL** Techniques Enhancing skills in **Reactive Programming****
+- 🌱 I’m currently learning **Advanced **GraphQL** Techniques, Enhancing skills in **Reactive Programming****
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
-- 💬 Ask me about ****Java**, **Angular**, and **Spring Boot** Cloud solutions: **AWS** and **Azure** Microservices architecture and **DevOps Practices****
+- 💬 Ask me about ****Java**, **Angular**, and **Spring Boot**, Cloud solutions: **AWS** and **Azure** Microservices architecture and **DevOps Practices****
 
 - 📫 How to reach me **aryangg7350@gmail.com**
 
@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aryangoud1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryangoud1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@aryangoud_90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aryangoud_90" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aryangoud_90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aryangoud_90" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aryangoud_90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryangoud_90" height="30" width="40" /></a>
 </p>
 
@@ -36,58 +36,22 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-goud&" alt="aryan-goud" /></p>
 
-<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; width: 350px; box-shadow: 0 1px 1px rgba(0,0,0,0.1); font-family: Arial, sans-serif;">
-  <a href="https://github.com/Aryan-Goud/Assessments_Interns" style="font-size: 16px; font-weight: 600; color: #0366d6; text-decoration: none;">Java Projects</a>
-  <span style="float: right; font-size: 12px; color: #586069; border: 1px solid #e1e4e8; padding: 2px 6px; border-radius: 10px;">Public</span>
-  <p style="font-size: 14px; color: #586069; margin: 8px 0;">Complex Projects and Problem Solvings</p>
-  <div style="font-size: 14px; color: #586069;">
-    <span style="display: inline-block; margin-right: 10px;">
-      <span style="color: #0366d6; font-size: 12px;">●</span> Python
-    </span>
-    <span style="font-size: 12px;">⭐ 1</span>
-  </div>
-</div>
 
-<div class="Box pinned-item-list-item d-flex p-3 width-full public source"> 
+   <table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Aryan-Goud/Assessments_Interns">
+        <h3>Java Projects</h3>
+      </a>
+      <p>Find all my projects and problem solvings</p>
+      <p>
+        <img src="https://img.shields.io/badge/Language-Java-blue?style=flat&logo=java" alt="Language">
+        <img src="https://img.shields.io/github/stars/Aryan-Goud/Assessments_Interns?style=social" alt="Stars">
+      </p>
+    </td>
+    
+  </tr>
+</table>
 
-<div class="pinned-item-list-item-content"> 
 
-<div class="d-flex v-align-middle mr-2"> 
-
-<span data-view-component-"true" class="position-relative">
-
-<a  href="/Aryan-Goud/Assessments_Interns" data-view-component="true" class="min-width-e Link text-bold flex-auto wb-break-all" aria-describedby "tooltip-b52e6780-bde3-422e-9916-0dd27cd90464">
-
-<span class="repo"> eti-pipeline-python </span>
-
-</a>
-
-<tool-tip id="tooltip-b52e6780-bde3-422e-9916-0dd27cd90464" for="823750295" popover-"manual" data-direction="s" data-type="description" data-view- component="true" class="position-absolute sr-only" role="tooltip" style="--tool-tip-position-top: 1888.856388092041px; tool-tip-position-left: 8
-
-71,0781364440918px;">
-
-#shadow-root (open)
-
-"etl-pipeline-python"
-
-</tool-tip>
-
-</span>
-
-<span class="flex-auto text-right">
-
-<span></span>
-
-<span class="Label Label--secondary v-align-middle ">Public</span>
-
-</span>
-
-</div>
-
-<p class="pinned-item-desc color-fg-muted text-small d-block mt-2 mb-3"> Basic ETL project with a CSV data </p>
-
-<p class-mb-0 f6 color-fg-muted"> </p>
-
-</div>
-</div>div>
 
