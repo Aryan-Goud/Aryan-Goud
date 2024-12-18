@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://checkmateittech.com/wp-content/uploads/2023/10/Full-Stack.jpg" alt="Java Banner" width="100%">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="Java Banner" width="70%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Aryan</h1>
