@@ -37,21 +37,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-goud&" alt="aryan-goud" /></p>
 
 
-   <table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Aryan-Goud/Assessments_Interns">
-        <h3>Java Projects</h3>
-      </a>
-      <p>Find all my projects and problem solvings</p>
-      <p>
-        <img src="https://img.shields.io/badge/Language-Java-blue?style=flat&logo=java" alt="Language">
-        <img src="https://img.shields.io/github/stars/Aryan-Goud/Assessments_Interns?style=social" alt="Stars">
-      </p>
-    </td>
-    
-  </tr>
-</table>
-
+   
 
 
